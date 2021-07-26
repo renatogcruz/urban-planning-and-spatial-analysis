@@ -1,0 +1,16 @@
+A Guide: Turning OpenStreetMap Location Data into ML Features
+Um guia: transformando dados de localização do OpenStreetMap em recursos de ML
+https://towardsdatascience.com/a-guide-turning-openstreetmap-location-data-into-ml-features-e687b66db210
+
+OpenStreetMap Data to ML Training Labels for Object Detection
+Dados do OpenStreetMap para rótulos de treinamento de ML para detecção de objetos
+https://medium.com/@shay.strong/openstreetmap-data-to-ml-training-labels-for-object-detection-ce0a3ccdb907
+
+Using OpenStreetMap Data and Machine Learning to Generate Socio-Economic Indicators
+Daniel Feldmeyer 1,*, Claude Meisch 2,3 , Holger Sauter 1 and Joern Birkmann 1
+
+OpenStreetMap: Challenges and Opportunities in Machine Learning and Remote Sensing
+https://arxiv.org/abs/2007.06277
+
+Machine learning - openstreetmap.org
+https://wiki.openstreetmap.org/wiki/Machine_learning
