@@ -1,4 +1,4 @@
-# urban-planning-and-spatial-analysis
+# Urban planning and spatial analysis
 
 Urban planning and spatial analysis
 
