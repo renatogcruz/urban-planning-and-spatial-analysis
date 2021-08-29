@@ -10,4 +10,14 @@ OSMnx: Python for street networks. Retrieve, model, analyze, and visualize stree
 
 Link: [repository](https://github.com/gboeing/osmnx) and [blog](https://geoffboeing.com/).
 
-## [...]
+## Geopandas
+
+GeoPandas is an open source project to make working with geospatial data in python easier. 
+
+Rio de Janeiro city map containing properties for sale (in orange) and subway stations (in black). The greater the distance between a property and a subway station, the lower the value of that property.
+
+![](geopandas/rj.png)
+
+## openstreetmap machine learning
+
+[...]
