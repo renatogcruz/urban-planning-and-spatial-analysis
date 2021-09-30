@@ -43,5 +43,16 @@
   <p>
   <a href="http://www.dpi.inpe.br/spring/portugues/manuais.html">Aplicação Python para Análise Exploratória, Modelagem de Semivariograma e Predições</a>
   </p>
+  
+  <p>
+  [...]
+  </P>
+  
+  <p>https://github.com/varsha2509/hyperlocal-aq-prediction</p>
+  <p>https://ichi.pro/pt/implantando-seus-projetos-de-aprendizado-de-maquina-geoespacial-como-aplicativos-da-web-usando-streamlit-e-heroku-76786757885104</p>
+  
 </body>
 </html>
+
+
+
