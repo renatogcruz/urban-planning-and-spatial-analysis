@@ -51,6 +51,8 @@
   <p>https://github.com/varsha2509/hyperlocal-aq-prediction</p>
   <p>https://ichi.pro/pt/implantando-seus-projetos-de-aprendizado-de-maquina-geoespacial-como-aplicativos-da-web-usando-streamlit-e-heroku-76786757885104</p>
   
+  <p>https://www.youtube.com/c/QiushengWu/playlists</p>
+  
 </body>
 </html>
 
