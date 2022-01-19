@@ -60,6 +60,9 @@
   <p>
   <a href="https://www.youtube.com/watch?v=MyHi6M9IVpA">OpenStreetMap to production-ready map</a>
   </p>
+  <p>
+  <a href="https://www.youtube.com/watch?v=Yxkh2f-3Bj8">Extraindo dados do OpenStreetMap usando QGIS e QuickOSM</a>
+  </p>
   
 </body>
 </html>
