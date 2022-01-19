@@ -53,6 +53,14 @@
   
   <p>https://www.youtube.com/c/QiushengWu/playlists</p>
   
+  <h3>Qgis</h3>  
+  <p>
+  Qgis - A Free and Open Source Geographic Information System. 
+  </p>
+  <p>
+  <a href="https://www.youtube.com/watch?v=MyHi6M9IVpA">OpenStreetMap to production-ready map</a>
+  </p>
+  
 </body>
 </html>
 
