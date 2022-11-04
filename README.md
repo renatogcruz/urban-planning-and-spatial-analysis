@@ -64,6 +64,14 @@
   <a href="https://www.youtube.com/watch?v=Yxkh2f-3Bj8">Extraindo dados do OpenStreetMap usando QGIS e QuickOSM</a>
   </p>
   
+  <h3>Acessibilidade Urbana</h3>  
+  <p>
+  <a href="https://ipeagit.github.io/intro_access_book/">Introdução à acessibilidade urbana</a>
+  </p>
+  <h3>Geocomputation</h3>  
+  <p>
+  <a href="https://geocompr.robinlovelace.net/index.html">Geocomputation with R</a>
+  </p>
 </body>
 </html>
 
