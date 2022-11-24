@@ -68,6 +68,9 @@
   <p>
   <a href="https://ipeagit.github.io/intro_access_book/">Introdução à acessibilidade urbana</a>
   </p>
+  <p>
+  <a href="https://ipeagit.github.io/gtfs2emis/">Estimating public transport emissions from GTFS data</a>
+  </p>
   <h3>Geocomputation</h3>  
   <p>
   <a href="https://geocompr.robinlovelace.net/index.html">Geocomputation with R</a>
